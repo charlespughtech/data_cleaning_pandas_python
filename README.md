@@ -15,6 +15,7 @@ Date: June 08, 2025
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Dataset](#dataset)
 - [Requirements](#requirements)
 - [Project Structure](#project-structure)
 - [Data Cleaning](#data-cleaning)
@@ -36,6 +37,12 @@ Date: June 08, 2025
 ## Project Overview
 
 This project involves cleaning a Customer Call List dataset using Pandas to prepare it for a contact center. The dataset, sourced from a CSV file, requires several cleaning steps to address issues such as duplicates, inconsistent formatting, missing values, and irrelevant data. The final cleaned dataset is saved as an Excel file for further use.
+
+---
+
+## Dataset
+
+Raw Dataset URL: [https://github.com/AlexTheAnalyst/PandasYouTubeSeries/blob/main/Customer%20Call%20List.xlsx](https://github.com/AlexTheAnalyst/PandasYouTubeSeries/blob/main/Customer%20Call%20List.xlsx)
 
 ---
 
